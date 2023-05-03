@@ -1,2 +1,2 @@
 # c_language
-this file contains c++ codes
+This file contains c++ codes
